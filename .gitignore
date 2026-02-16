@@ -1,0 +1,20 @@
+# Исключаем все папки, кроме Web-Dev/Lab4
+.vscode/
+ADS/
+build Debug/
+DataBases/
+ICT/
+ICT2/
+json/
+Ib6/
+online-store/
+Pygame/
+Semester1c++/
+build/
+lb6/
+Web-Dev/Lab1
+Web-Dev/Lab2
+Web-Dev/Lab3
+
+# Но включаем Web-Dev/Lab4
+!Web-Dev/Lab4/
